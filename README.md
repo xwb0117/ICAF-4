@@ -20,7 +20,7 @@ pip install -e
 ```
 
 ## Datasets
-Download our generated dataset from ArtImage at [BaiduYun(code:2e3q)](https://pan.baidu.com/s/1mocuF02vKf7_YWFKaclgxw?pwd) and [OneDrive](https://onedrive.live.com/?cid=0CEC31BD19A86C5F&id=CEC31BD19A86C5F%21s618290dc5a61431fa6b3ced1732bde45&parId=root&o=OneUp), and save in ```/data```
+Download our generated dataset from ArtImage at [BaiduYun(code:o2ou)](https://pan.baidu.com/s/1vyEL3uvvaT1dNvpZc4jyIg?pwd=o2ou) and [OneDrive](), and save in ```/data```
 
 ## Training
 
