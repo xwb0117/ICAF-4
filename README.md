@@ -1,7 +1,7 @@
 # ICAF-4: An Integrated Framework of Category-level Articulated Object Perception and Manipulation for Embodied Intelligence
 This repository is the official implementation of the paper [ICAF-4: An Integrated Framework of Category-level Articulated Object Perception and Manipulation for Embodied Intelligence](https://w.afbcs.cn/V5uaBm). This paper has been accepted to BMVC 2024.
 
-![imag](https://github.com/xwb0117/ICAF-4/blob/main/icaf-4.png))
+![imag](https://github.com/xwb0117/ICAF-4/blob/main/icaf-4.png)
 
 ## Installation
 This code has been tested on Ubuntu 20.04 with Python 3.7, CUDA 11.3 and Pytorch 1.10.0 Firstly, create environment and install the dependencies:
